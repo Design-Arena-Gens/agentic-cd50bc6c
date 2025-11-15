@@ -1,0 +1,40 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="110" height="110" rx="24" fill="url(#paint0_linear)" stroke="url(#paint1_linear)" stroke-width="4"/>
+  <circle cx="60" cy="60" r="30" fill="url(#paint2_radial)" stroke="url(#paint3_linear)" stroke-width="4"/>
+  <path d="M60 36V44" stroke="url(#paint4_linear)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M60 76V84" stroke="url(#paint4_linear)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M84 60L76 60" stroke="url(#paint4_linear)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M44 60L36 60" stroke="url(#paint4_linear)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="60" cy="60" r="14" fill="url(#paint5_radial)" stroke="url(#paint6_linear)" stroke-width="3"/>
+  <circle cx="60" cy="60" r="6" fill="#9EB6FF"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="15" y1="15" x2="105" y2="105" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1428"/>
+      <stop offset="1" stop-color="#030508"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="0" y1="0" x2="120" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5C82FF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#1F2C54" stop-opacity="0.6"/>
+    </linearGradient>
+    <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(60 60) rotate(90) scale(30)">
+      <stop stop-color="#0C1D3C"/>
+      <stop offset="1" stop-color="#060A14"/>
+    </radialGradient>
+    <linearGradient id="paint3_linear" x1="60" y1="30" x2="60" y2="90" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6F8DFF"/>
+      <stop offset="1" stop-color="#4D67CC"/>
+    </linearGradient>
+    <linearGradient id="paint4_linear" x1="60" y1="36" x2="60" y2="84" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#98B2FF"/>
+      <stop offset="1" stop-color="#6A89FF"/>
+    </linearGradient>
+    <radialGradient id="paint5_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(60 60) rotate(90) scale(14)">
+      <stop stop-color="#0F1F3F"/>
+      <stop offset="1" stop-color="#02050B"/>
+    </radialGradient>
+    <linearGradient id="paint6_linear" x1="46" y1="46" x2="74" y2="74" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7BA1FF"/>
+      <stop offset="1" stop-color="#3A4C88"/>
+    </linearGradient>
+  </defs>
+</svg>
